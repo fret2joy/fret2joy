@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="center"><a href="https://serenityos.org/happy/1st/">fret2joy</a> summary</h1>
 
-<!--
-**fret2joy/fret2joy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<sup>External links: </sup>[![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/)](https://www.linkedin.com/)
+[![Tryhackme Badge](https://img.shields.io/badge/-tryhackme-green?style=flat&logo=Linkedin&logoColor=white&link=https://www.tryhackme.com/p/oranggila)](https://www.tryhackme.com/p/oranggila)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">I graduated with Bachelor of Computer Science (Hons.) in Cybersecurity</p>
+
+<p align="center">Took game development during my course of study</p>
+
+<p align="center">All my publicly available code is down below</p>
+
+###
